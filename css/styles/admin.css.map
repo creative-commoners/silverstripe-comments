@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./scss/commentsgrid.scss?43a8"],"names":[],"mappings":"AAAA,eACI","file":"styles/admin.css","sourcesContent":["td.col-buttons {\n    white-space: nowrap;\n}\n\n\n\n// WEBPACK FOOTER //\n// ./scss/commentsgrid.scss"],"sourceRoot":""}

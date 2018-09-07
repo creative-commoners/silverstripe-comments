@@ -22,6 +22,7 @@ const config = [
     name: 'css',
     entry: {
       bundle: Path.resolve('scss') + '/comments.scss',
+      admin: Path.resolve('scss') + '/commentsgrid.scss',
     },
     output: {
       path: Path.resolve('css'),

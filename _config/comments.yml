@@ -9,3 +9,7 @@ SilverStripe\CMS\Model\SiteTree:
     - SilverStripe\Comments\Extensions\CommentsExtension
   comments:
     enabled_cms: true
+
+SilverStripe\Admin\LeftAndMain:
+  extra_requirements_css:
+    - 'silverstripe/comments:css/styles/admin.css'
